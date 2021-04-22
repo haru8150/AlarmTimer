@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\AlarmTimer\bin\Debug\AlarmTimer.exe.config
+C:\Users\user\source\repos\AlarmTimer\bin\Debug\AlarmTimer.exe
+C:\Users\user\source\repos\AlarmTimer\bin\Debug\AlarmTimer.pdb
+C:\Users\user\source\repos\AlarmTimer\obj\Debug\AlarmTimer.csprojAssemblyReference.cache
+C:\Users\user\source\repos\AlarmTimer\obj\Debug\AlarmTimer.Properties.Resources.resources
+C:\Users\user\source\repos\AlarmTimer\obj\Debug\AlarmTimer.csproj.GenerateResource.cache
+C:\Users\user\source\repos\AlarmTimer\obj\Debug\AlarmTimer.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AlarmTimer\obj\Debug\AlarmTimer.exe
+C:\Users\user\source\repos\AlarmTimer\obj\Debug\AlarmTimer.pdb
+C:\Users\user\source\repos\AlarmTimer\obj\Debug\AlarmTimer.FormMain.resources
+C:\Users\user\source\repos\AlarmTimer\obj\Debug\AlarmTimer.FormSet.resources
